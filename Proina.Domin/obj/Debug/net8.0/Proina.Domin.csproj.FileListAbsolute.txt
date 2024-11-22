@@ -1,0 +1,13 @@
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\Proina.Domin.csproj.AssemblyReference.cache
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\Proina.Domin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\Proina.Domin.AssemblyInfoInputs.cache
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\Proina.Domin.AssemblyInfo.cs
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\Proina.Domin.csproj.CoreCompileInputs.cache
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\Proina.Domin.sourcelink.json
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\bin\Debug\net8.0\Proina.Domin.deps.json
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\bin\Debug\net8.0\Proina.Domin.dll
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\bin\Debug\net8.0\Proina.Domin.pdb
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\Proina.Domin.dll
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\refint\Proina.Domin.dll
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\Proina.Domin.pdb
+C:\Users\haqve\OneDrive\Desktop\Hr_Project\HR_Project\Pronia.Uİ\Proina.Domin\obj\Debug\net8.0\ref\Proina.Domin.dll
